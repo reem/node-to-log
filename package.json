@@ -1,6 +1,6 @@
 {
   "name": "to-log",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "dependencies": {},
   "scripts": {
     "test": "./node_modules/gulp/bin/gulp.js test"
